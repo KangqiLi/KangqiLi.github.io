@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kangqi Li"
   avatar           : "profile.png"
-  bio              : "Graduate M.S. in STATS \n Case Western Reserve University"
+  bio              : "Graduate M.S. in STATS" \n "Case Western Reserve University"
   location         : "Staten Island, New York, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kxl871@case.edu"
+  email            : "kxl871 [at] case [dot] edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
