@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kangqi Li's Homepage"
 title_separator          : "-"
 name                     : &name "Kangqi Li"
-description              : &description "Graduate M.S. in STATS from CWRU"
+description              : &description "Graduate MS in STATS from Case Western Reserve University"
 url                      : https://kangqili.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kangqi Li"
   avatar           : "profile.png"
-  bio              : "Graduate M.S. in STATS \n Case Western Reserve University"
+  bio              : "MS in STATS @CWRU"
   location         : "Staten Island, New York, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
