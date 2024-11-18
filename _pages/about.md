@@ -24,6 +24,8 @@ I am actively seeking Ph.D. / RA positions in the related fields in 2025. Please
 
 ## Publications & Preprints
 
-\[2024.10\] [**GLIMPSE: MLLMs Can Watch but Do They Truly Understand?**](https://openreview.net/pdf?id=ZjFfCX9Q76)  
-Yiyang Zhou, Linjie Li, Shi Qiu, Zhengyuan Yang, Yuyang Zhao, Yangfan He, **Kangqi Li**, Haonian Ji, Zihao Zhao, Siwei Han, Haibo Tong, Lijuan Wang, Huaxiu Yao  
-Submitted to CVPR 2025
+\[2024.11\] \[Manuscript in prep.\] **Causal Reasoning with Large Langusage Models: A Survey**
+Kangqi Li, Jing Ma
+
+\[2024.10\] \[Submitted\] **GLIMPSE: MLLMs Can Watch but Do They Truly Understand?**
+Yiyang Zhou, Linjie Li, Shi Qiu, Zhengyuan Yang, Yuyang Zhao, Yangfan He, **Kangqi Li**, Haonian Ji, Zihao Zhao, Siwei Han, Haibo Tong, Lijuan Wang, Huaxiu Yao
