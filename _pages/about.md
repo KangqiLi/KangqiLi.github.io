@@ -13,13 +13,16 @@ I recently graduated with a M.S. degree in Statistics from [Case Western Reserve
 
 ## Research Interests
 
-My research interests lie broadly in bridging causal inference and machine learning, exploring their potential in AI. This includes: **Causality Inspired Trustworthy ML / Graph Out-of-Distribution Generalization / Graph Foundation Models / Causal Reasoning in NLP.** Recently, I'm particularly interested in the **causal reasoning capabilities of LLMs.** I seek to explore the following topics:
+My research interests lie broadly in bridging causal inference and machine learning, exploring their potential in reliable AI. 
+
+This includes: **Causality Inspired Trustworthy ML / Graph Out-of-Distribution Generalization / Graph Foundation Models / Causal Reasoning in NLP.** Recently, I'm particularly interested in the **causal reasoning capabilities of LLMs.** I seek to explore the following topics:
 
 - Can formal causality enhance the explainability of LLMs in entity and event reasoning tasks? How might this contribute to improving their reliability?
 - Why do LLMs struggle with complex causal reasoning tasks? Is it due to their limited mathematical reasoning capabilities through text, or their inability to learn causal structures? If we provide text-based information about structural equations, could this help LLMs better assess the feasibility of 'climbing the ladder'?
-- Is an LLM merely a "[causal parrot](https://arxiv.org/pdf/2308.13067)"? Does fine-tuning LLMs on meta SCM data help mitigate bias and improve generalization?
+- Is an LLM merely a "[causal parrot](https://arxiv.org/pdf/2308.13067)"? Does injecting causal knowledge into LLMs through data embedded with meta SCMs help mitigate bias and enhance generalization?
 - What is the ideal benchmark for genuinely evaluating LLMs' causal reasoning capabilities?
 - Can formal causality be extended to multimodal reasoning tasks?
+- ...
 
 I am actively seeking Ph.D. / RA positions in the related fields in 2025. Please feel free to contact me at [kangqiliCWRU@gmail.com](kangqiliCWRU@gmail.com) if you are interested in discussing with me.
 
