@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I recently graduated with a M.S. degree in Statistics from [Case Western Reserve University](https://case.edu/). Previously, I obtained my B.Sc. degree in Statistics from [Wuhan University](https://en.whu.edu.cn/). I am currently working on a survey on **causal reasoning with LLMs** under the guidance of [Prof. Jing Ma](https://jma712.github.io/).
+I recently graduated with a M.S. degree in Statistics from [Case Western Reserve University](https://case.edu/). Previously, I obtained my B.Sc. degree in Statistics from [Wuhan University](https://en.whu.edu.cn/). I am currently working on a research on **causal reasoning with LLMs** under the guidance of [Prof. Jing Ma](https://jma712.github.io/).
 
 ## Research Interests
 
