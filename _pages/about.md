@@ -33,5 +33,5 @@ I am actively seeking Ph.D. / RA positions in the related fields in 2025. Please
 \[2024.11\] \[Ongoing\] **Research on formal causal reasoning with large language models.**  
 Kangqi Li, Jing Ma
 
-\[2024.10\] \[Under Review\] **Research on benchmark for evaluating the temporal reasoning ability of LVLMs, submitted to a major CV conference.**  
+\[2024.10\] \[CVPR 2025 Under Review\] **GLIMPSE: LVLMs Can Watch but Do They Truly Understand?**  
 Yiyang Zhou, Linjie Li, Shi Qiu, Zhengyuan Yang, Yuyang Zhao, Yangfan He, **Kangqi Li**, Haonian Ji, Zihao Zhao, Siwei Han, Haibo Tong, Lijuan Wang, Huaxiu Yao
