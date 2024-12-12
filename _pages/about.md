@@ -13,7 +13,7 @@ I recently graduated with a M.S. degree in Statistics from [Case Western Reserve
 
 ## Research Interests
 
-My research interests lie broadly in bridging causal inference and machine learning, exploring their potential in reliable AI.
+My research interests lie broadly in bridging causal inference and machine learning, exploring their potential to empower reliable AI.
 
 This includes: **Causality Inspired Trustworthy ML / Graph Out-of-Distribution Generalization / Graph Foundation Models / Causal Reasoning in NLP.**
 
